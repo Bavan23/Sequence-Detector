@@ -174,13 +174,13 @@ module tb_fsm_sequence;
         $dumpvars(0, tb_fsm_sequence);
     end
 endmodule
-
-Output:
+```
+# Output:
 
 ![image](https://github.com/user-attachments/assets/a2cfcabe-54cf-4057-adf7-caabd483de55)
 
 Testbench for Mealey:
-
+```
 module mealy(clk,rst,inp,out);
  input clk, rst, inp;
  output out;
