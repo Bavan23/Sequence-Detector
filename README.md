@@ -179,7 +179,7 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/a2cfcabe-54cf-4057-adf7-caabd483de55)
 
-Testbench for Mealey:
+# Testbench for Mealey:
 ```
 module mealy(clk,rst,inp,out);
  input clk, rst, inp;
